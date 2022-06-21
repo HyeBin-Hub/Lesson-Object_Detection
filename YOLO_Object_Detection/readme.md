@@ -7,7 +7,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 ![image](https://user-images.githubusercontent.com/69446702/174701292-181529c3-746b-4eed-ac63-8a3ae653c4cb.png)
 
 
-### Using pretrained model on the COCO Dataset
+### Using Inference Model and Environmental File Learned by Coco on Darknet Yolo Site
 - pretrained_model : https://pjreddie.com/media/files/yolov3.weights
 - pretrained_model config : https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
 
